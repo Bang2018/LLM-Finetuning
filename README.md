@@ -19,3 +19,9 @@ https://huggingface.co/datasets/Krishm/industry5-qa-dataset
 
 Krishm/industry5-llama3-qlora
 https://huggingface.co/Krishm/industry5-llama3-qlora
+
+### LoRA, QLoRA & 4-Bit Quantization Explained | NF4 & Hand-Calculated Memory Math (Under 20 Min)
+
+https://www.youtube.com/watch?v=1FUYSeBt_JI
+
+
